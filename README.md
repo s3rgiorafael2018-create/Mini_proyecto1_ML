@@ -46,6 +46,3 @@ Este proyecto fue desarrollado por:
 
 ---
 
-# Nota
-
-Este repositorio corresponde a una copia del proyecto mantenida con fines académicos y de portafolio. El desarrollo fue realizado de manera colaborativa por los integrantes del equipo.
