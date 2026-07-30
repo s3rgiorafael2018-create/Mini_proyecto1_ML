@@ -32,6 +32,8 @@ El proyecto utiliza información histórica de préstamos de **Lending Club**, i
 
 ---
 
+# Link del notebook: https://s3rgiorafael2018-create.github.io/Mini_proyecto1_ML/
+---
 # Equipo
 
 Este proyecto fue desarrollado por:
